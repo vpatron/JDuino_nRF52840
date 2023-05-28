@@ -12,7 +12,7 @@
 				"architecture": "nrf52",
 				"version": "1.0.0",
 				"category": "Contributed",
-				"url": "https://github.com/vpatron/JDuino_nRF52840/blob/master/JDuino/JDuino_1.0.0.zip?raw=true",
+				"url": "https://raw.githubusercontent.com/vpatron/JDuino_nRF52840/main/package_jduino_index.json",
 				"archiveFileName": "JDuino_1.0.0.zip",
 				"checksum": "SHA-256:6cf90eb4bfdfb0048fe48617ea604990a366c916946c164791a258067e120568",
 				"size": "18491889",
