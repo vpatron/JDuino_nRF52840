@@ -14,8 +14,8 @@
 				"category": "Contributed",
 				"url": "https://github.com/vpatron/JDuino_nRF52840/raw/main/JDuino_1.0.0.zip",
 				"archiveFileName": "JDuino_1.0.0.zip",
-				"checksum": "SHA-256:dc4d9147dd01cedd2e781f22fa6cc9b42cbf3a861c4e3846bbf631f86c810419",
-				"size": "18491913",
+				"checksum": "SHA-256:9ff4dc11f4456ac8cc7e29b25c8192aa7b3eb9359dfb1fbc61c88d6f9e52bb8d",
+				"size": "17945581",
 				"boards": [{
 					"name": "JDuino nRF52840"
 				}
