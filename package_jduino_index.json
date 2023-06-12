@@ -10,7 +10,7 @@
 		"platforms": [{
 				"name": "JDuino nRF52 Boards",
 				"architecture": "nrf52",
-				"version": "1.0.0",
+				"version": "1.1.0",
 				"category": "Contributed",
 				"url": "https://github.com/vpatron/JDuino_nRF52840/raw/main/JDuino_1.0.0.zip",
 				"archiveFileName": "JDuino_1.0.0.zip",
