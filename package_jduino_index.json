@@ -15,7 +15,7 @@
 				"url": "https://raw.githubusercontent.com/vpatron/JDuino_nRF52840/refs/heads/bsp_nanob301/JDuino_1.2.0.zip",
 				"archiveFileName": "JDuino_1.2.0.zip",
 				"checksum": "SHA-256:3da5a697756382a7a910a47ca3ca2f0647ed2d09b0d087003c7b2b8183f038bd",
-				"size": "17945581",
+				"size": "17946146",
 				"boards": [{
 					"name": "JDuino nRF52840"
 				}
