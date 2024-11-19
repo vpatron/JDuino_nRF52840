@@ -10,11 +10,11 @@
 		"platforms": [{
 				"name": "JDuino nRF52 Boards",
 				"architecture": "nrf52",
-				"version": "1.1.0",
+				"version": "1.2.0",
 				"category": "Contributed",
-				"url": "https://github.com/vpatron/JDuino_nRF52840/raw/main/JDuino_1.0.0.zip",
-				"archiveFileName": "JDuino_1.0.0.zip",
-				"checksum": "SHA-256:9ff4dc11f4456ac8cc7e29b25c8192aa7b3eb9359dfb1fbc61c88d6f9e52bb8d",
+				"url": "https://raw.githubusercontent.com/vpatron/JDuino_nRF52840/refs/heads/bsp_nanob301/JDuino_1.2.0.zip",
+				"archiveFileName": "JDuino_1.2.0.zip",
+				"checksum": "SHA-256:3da5a697756382a7a910a47ca3ca2f0647ed2d09b0d087003c7b2b8183f038bd",
 				"size": "17945581",
 				"boards": [{
 					"name": "JDuino nRF52840"
