@@ -36,6 +36,36 @@
 						"version": "5.7.0"
 					}
 				]
+			},
+			{
+				"name": "JDuino nRF52 Boards",
+				"architecture": "nrf52",
+				"version": "1.2.1",
+				"category": "Contributed",
+				"url": "https://raw.githubusercontent.com/vpatron/JDuino_nRF52840/refs/heads/bsp_nanob301/JDuino_1.2.1.zip",
+				"archiveFileName": "JDuino_1.2.1.zip",
+				"checksum": "SHA-256:e0abb556e23fd8c8fae43f992ccfe0bcdb1e797099855b3b739ea6b739cb9777",
+				"size": "17946165",
+				"boards": [{
+					"name": "JDuino nRF52840"
+				}
+				],
+				"toolsDependencies": [{
+						"packager": "Seeeduino",
+						"name": "arm-none-eabi-gcc",
+						"version": "9-2019q4"
+						},
+					{
+						"packager": "Seeeduino",
+						"name": "nrfjprog",
+						"version": "9.4.0"
+					},
+					{
+						"packager": "Seeeduino",
+						"name": "CMSIS",
+						"version": "5.7.0"
+					}
+				]
 			}
 		],
 		"tools": [{
